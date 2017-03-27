@@ -16,4 +16,5 @@
 -  利用clipboard.js来实现这个效果，但是在安卓6以下的webview没有效果，safari没有问题
 -  解决办法，调用安卓自己的接口实现这个功能
 
-
+5、transform样式在比较老的ios系统上失效的办法
+- 添加-webkit-前缀
